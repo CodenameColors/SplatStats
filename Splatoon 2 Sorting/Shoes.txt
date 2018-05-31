@@ -1,0 +1,62 @@
+Acerola Rain Boots	Run Speed Up	Inkline	1
+Armor Boot Replicas	Ink Saver (Main)	Cuttlegear	2
+Arrow Pull-Ons	Drop Roller	Toni Kensa	3
+Birch Climbing Shoes	Special Charge Up	Inkline	1
+Black Dakroniks	Cold Blooded	Zink	2
+Black Flip-Flops	Object Shredder	Zekko	1
+Black Norimaki 750s	Special Charge Up	Tentatek	3
+Black Trainers	Quick Respawn	Tentatek	1
+Blue & Black Squidkid IV	Quick Super Jump	Enperry	3
+Blue Moto Boots	Ink Resistance Up	Rockenberg	3
+Blue Slip-Ons	Sub Power Up	Krak-On	1
+Blueberry Casuals	Ink Saver (Sub)	Krak-On	1
+Canary Trainers	Quick Super Jump	Tentatek	1
+Cherry Kicks	Stealth Jump	Rockenberg	2
+Choco Clogs	Quick Respawn	Krak-On	2
+Crazy Arrows	Stealth Jump	Takoroka	2
+Cream Basics	Special Saver	Krak-On	1
+Fringed Loafers	Cold Blooded	amiibo	2
+Gold Hi-Horses	Run Speed Up	Zink	3
+Gray Sea-Slug Hi-Tops	Bomb Defense Up	Tentatek	3
+Hero Runner Replicas	Quick Super Jump	Cuttlegear	2
+Hero Snowboots Replicas	Ink Saver (Sub)	Cuttlegear	2
+Hunter Hi-Tops	Ink Recovery Up	Krak-On	1
+Hunting Boots	Bomb Defense Up	Splash Mob	3
+Kid Clams	Special Power Up	Rockenberg	3
+LE Soccer Shoes	Ink Resistance Up	Takoroka	3
+Mawcasins	Ink Recovery Up	Splash Mob	2
+Mint Dakroniks	Drop Roller	Zink	1
+Moto Boots	Quick Respawn	Rockenberg	2
+Neon Delta Straps	Sub Power Up	Inkline	2
+Neon Sea Slugs	Ink Resistance Up	Tentatek	1
+Orange Arrows	Ink Saver (Main)	Takoroka	1
+Orca Hi-Tops	Special Saver	Takoroka	2
+Oyster Clogs	Run Speed Up	Krak-On	1
+Pink Trainers	Sub Power Up	Tentatek	1
+Piranha Moccasins	Stealth Jump	Splash Mob	3
+Plum Casuals	Object Shredder	Krak-On	2
+Power Boots	Ink Saver (Main)	amiibo	2
+Power Boots Mk I	Bomb Defense Up	amiibo	2
+Pro Trail Boots	Ink Resistance Up	Inkline	3
+Punk Blacks	Cold Blooded	Rockenberg	3
+Punk Whites	Special Charge Up	Rockenberg	2
+Purple Hi-Horses	Special Power Up	Zink	1
+Purple Sea Slugs	Run Speed Up	Tentatek	2
+Red & Black Squidkid IV	Special Charge Up	Enperry	3
+Red Hi-Horses	Ink Saver (Main)	Zink	1
+Red-Mesh Sneakers	Special Power Up	Tentatek	2
+Roasted Brogues	Bomb Defense Up	Rockenberg	1
+Samurai Shoes	Special Power Up	amiibo	2
+School Shoes	Ink Saver (Sub)	amiibo	2
+Smoky Wingtips	Object Shredder	Rockenberg	3
+Snow Delta Straps	Swim Speed Up	Inkline	3
+Squinja Boots	Swim Speed Up	amiibo	2
+Strapping Reds	Ink Resistance Up	Splash Mob	1
+Strapping Whites	Ink Saver (Sub)	Splash Mob	3
+Sunny Climbing Shoes	Special Saver	Inkline	2
+Sunset Orca Hi-Tops	Drop Roller	Takoroka	2
+Trail Boots	Ink Recovery Up	Inkline	3
+White Kicks	Swim Speed Up	Rockenberg	1
+White Norimaki 750s	Swim Speed Up	Tentatek	2
+White Seahorses	Ink Recovery Up	Zink	1
+Yellow-Mesh Sneakers	Cold Blooded	Tentatek	1

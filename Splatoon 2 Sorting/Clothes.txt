@@ -1,0 +1,108 @@
+Anchor Sweat	Cold Blooded	SquidForce	2
+Annaki Drive Tee	Thermal Ink	Annaki	2
+Annaki Evolution Tee	Respawn Punisher	Annaki	3
+Armor Jacket Replica	Special Charge Up	Cuttlegear	2
+B-ball Jersey (Away)	Ink Saver (Sub)	Zink	1
+Baby-Jelly Shirt	Bomb Defense Up	Splash Mob	1
+Baby-Jelly Shirt & Tie	Cold Blooded	Splash Mob	2
+Basic Tee	Quick Respawn	SquidForce	1
+Berry Ski Jacket	Special Power Up	Inkline	2
+Birded Corduroy Jacket	Run Speed Up	Zekko	3
+Black Inky Rider	Sub Power Up	Rockenberg	3
+Black LS	Quick Super Jump	Zekko	2
+Black Squideye	Run Speed Up	Tentatek	1
+Black Tee	Special Power Up	SquidForce	1
+Black Urchin Rock Tee	Ink Recovery Up	Rockenberg	1
+Black V-Neck Tee	Thermal Ink	SquidForce	2
+Blue Peaks Tee	Ink Saver (Sub)	Inkline	1
+Blue Sailor Suit	Sub Power Up	Forge	3
+Blue Tentatek Tee	Quick Respawn	Tentatek	2
+Brown FA-11 Bomber	Bomb Defense Up	Forge	2
+Camo Zip Hoodie	Quick Respawn	Firefin	3
+Chilly Mountain Coat	Swim Speed Up	Inkline	3
+Chirpy Chirps Band Tee	Cold Blooded	Rockenberg	1
+Choco Layered LS	Ink Saver (Sub)	Takoroka	1
+Crimson Parashooter	Special Charge Up	Annaki	3
+Cycle King Jersey	Bomb Defense Up	Tentatek	3
+Dark Urban Vest	Cold Blooded	Firefin	3
+Eggplant Mountain Coat	Special Saver	Inkline	3
+FA-01 Jacket	Ink Recovery Up	Forge	3
+FA-01 Reversed	Quick Super Jump	Forge	3
+FC Albacore	Respawn Punisher	Takoroka	1
+Fugu Tee	Swim Speed Up	Firefin	1
+Grape Hoodie	Quick Respawn	Enperry	1
+Gray 8-Bit FishFry	Special Charge Up	Firefin	1
+Gray FA-11 Bomber	Cold Blooded	Forge	2
+Gray Hoodie	Sub Power Up	Skalop	2
+Green Tee	Special Saver	Forge	1
+Green V-Neck Limited Tee	Quick Super Jump	SquidForce	2
+Green-Check Shirt	Sub Power Up	Zekko	2
+Half-Sleeve Sweater	Ink Saver (Sub)	Toni Kensa	2
+Hero Hoodie Replica	Ink Recovery Up 	Cuttlegear	2
+Hero Jacket Replica	Swim Speed Up 	Cuttlegear	2
+Hightide Era Band Tee	Thermal Ink	Rockenberg	1
+Hula Punk Shirt	Ink Saver (Main)	Annaki	2
+Inkfall Shirt	Special Charge Up	Toni Kensa	2
+Inkopolis Squaps Jersey	Cold Blooded	Zink	1
+King Jersey	Respawn Punisher	Enperry	2
+Layered Anchor LS	Run Speed Up	SquidForce	2
+Layered Vector LS	Special Saver	Takoroka	1
+Lime Easy-Stripe Shirt	Ink Resistance Up	Splash Mob	2
+Logo Aloha Shirt	Ink Recovery Up	Zekko	2
+Matcha Down Jacket	Ninja Squid	Inkline	3
+Mint Tee	Bomb Defense Up	Skalop	1
+Mister Shrug Tee	Ink Resistance Up	Krak-On	3
+Navy Deca Logo Tee	Ink Saver (Main)	Zink	1
+Navy King Tank	Ink Resistance Up	Enperry	1
+Navy Striped LS	Ink Recovery Up	Splash Mob	1
+Negative Longcuff Sweater	Haunt	Toni Kensa	3
+Octobowler Shirt	Ink Saver (Main)	Krak-On	2
+Pink Easy-Stripe Shirt	Quick Super Jump	Splash Mob	2
+Positive Longcuff Sweater	Swim Speed Up	Toni Kensa	3
+Power Armor	Quick Respawn	amiibo	2
+Power Armor Mk I	Ink Resistance Up	amiibo	2
+Prune Parashooter	Ninja Squid	Annaki	3
+Pullover Coat	Thermal Ink	Toni Kensa	3
+Purple Camo LS	Sub Power Up	Takoroka	1
+Red Tentatek Tee	Swim Speed Up	Tentatek	2
+Red V-Neck Limited Tee	Quick Respawn	SquidForce	2
+Red Vector Tee	Ink Saver (Main)	Takoroka	1
+Reel Sweat	Special Power Up	Zekko	1
+Retro Sweat	Bomb Defense Up	SquidForce	3
+Sailor-Stripe Tee	Run Speed Up	Splash Mob	1
+Samurai Jacket	Special Charge Up	amiibo	2
+School Cardigan	Run Speed Up	amiibo	2
+School Uniform	Ink Recovery Up	amiibo	2
+Shirt & Tie	Special Saver	Splash Mob	3
+Short Knit Layers	Ink Saver (Main)	Toni Kensa	3
+Shrimp-Pink Polo	Ninja Squid	Splash Mob	1
+Shrirt with Blue Hoodie	Special Power Up	Splash Mob	2
+Slash King Tank	Thermal Ink	Enperry	1
+Slipstream United	Bomb Defense Up	Takoroka	2
+Splatfest Tee	Ability Doubler	SquidForce	3
+Squid Satin Jacket	Quick Respawn	Zekko	3
+Squid Squad Band Tee	Ink Resistance Up	Rockenberg	1
+Squiddor Polo	Any	Grizzco	3
+Squinja Suit	Special Saver	amiibo	2
+Sunny-Day Tee	Special Charge Up	Krak-On	1
+Takoroka Windcrusher	Cold Blooded	Takoroka	3
+Urchins Jersey	Run Speed Up	Zink	1
+Varsity Jacket	Ink Saver (Sub)	Zekko	3
+Vintage Check Shirt	Haunt	Rockenberg	3
+Wet Floor Band Tee	Swim Speed Up	Rockenberg	1
+White 8-Bit FishFry	Sub Power Up	Firefin	1
+White Anchor Tee	Ninja Squid	SquidForce	2
+White Baseball LS	Quick Super Jump	Rockenberg	1
+White Deca Logo Tee	Ink Resistance Up	Zink	1
+White Inky Rider	Special Power Up	Rockenberg	3
+White King Tank	Haunt	Enperry	1
+White Tee	Ink Saver (Sub)	SquidForce	1
+White Urchin Rock Tee	Ink Saver (Main)	Rockenberg	1
+White V-Neck Tee	Special Saver	SquidForce	2
+Yellow Layered LS	Quick Super Jump	SquidForce	1
+Yellow Urban Vest	Haunt	Firefin	2
+Zekko Baseball LS	Bomb Defense Up	Zekko	1
+Zekko Hoodie	Ninja Squid	Zekko	2
+Zekko Jade Coat	Respawn Punisher	Zekko	2
+Zekko Redleaf Coat	Haunt	Zekko	2
+Zink Layered LS	Respawn Punisher	Zink	1

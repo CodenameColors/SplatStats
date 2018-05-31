@@ -1,0 +1,61 @@
+18K Aviators	Last-Ditch Effort	Rockenberg	3
+Annaki Beret	Ink Resistance Up	Annaki	3
+Annaki Mask	Opening Gambit	Annaki	2
+Armor Helmet Replica	Tenacity	Cuttlegear	2
+Backwards Cap	Quick Respawn	Zekko	1
+Bamboo Hat	Ink Saver (Main)	Inkline	2
+Bike Helmet	Ink Recovery Up	Skalop	2
+Blowfish Bell Hat	Ink Recovery Up	Firefin	1
+Bobble Hat	Quick Super Jump	Splash Mob	2
+Bucket Hat	Special Saver	SquidForce	1
+Camo Mesh	Swim Speed Up	Firefin	1
+Camping Hat	Special Power Up	Inkline	1
+Cycle King Cap	Bomb Defense Up	Tentatek	2
+Fake Contacts	Special Charge Up	Tentatek	2
+Firefin Facemask	Run Speed Up	Firefin	1
+FishFry Visor	Special Charge Up	Firefin	1
+Five-Panel Cap	Comeback	Zekko	2
+Half-Rim Glasses	Special Power Up	Splash Mob	2
+Headlamp Helmet	Any	Grizzco	3
+Hero Headphones Replica	Special Saver	Cuttlegear	2
+Hero Headset Replica	Run Speed Up	Cuttlegear	2
+Hickory Work Cap	Special Power Up	Krak-On	3
+Hockey Helmet	Cold Blooded	Forge	3
+Jellyvader Cap	Ink Saver (Sub)	Skalop	3
+King Facemask	Ink Saver (Sub)	Enperry	1
+King Flip Mesh	Run Speed Up	Enperry	2
+Knitted Hat	Ink Resistance Up	Firefin	1
+Lightweight Cap	Swim Speed Up	Inkline	1
+MTB Helmet	Tenacity	Zekko	3
+Noise Cancelers	Quick Respawn	Forge	3
+Paintball Mask	Comeback	Forge	3
+Painter's Mask	Cold Blooded	SquidForce	2
+Patched Ha	Cold Blooded	Skalop	2
+Pilot Goggles	Sub Power Up	Forge	2
+Power Mask	Bomb Defense Up	amiibo	2
+Power Mask Mk I	Ink Resistance Up	amiibo	2
+Retro Specs	Quick Respawn	Splash Mob	1
+Safari Hat	Last-Ditch Effort	Forge	2
+Samurai Helmet	Quick Super Jump	amiibo	2
+Skull Bandana	Special Saver	Forge	3
+Snorkel Mask	Ink Saver (Sub)	Forge	2
+Soccer Headband	Tenacity	Tentatek	2
+Special Forces Beret	Opening Gambit	Forge	3
+Squash Headband	Special Saver	Zink	1
+Squid Clip-Ons	Opening Gambit	amiibo	2
+Squid Facemask	Ink Saver (Main)	SquidForce	1
+Squid Hairclip	Swim Speed Up	amiibo	2
+Squidfin Hook Cans	Ink Resistance Up	Forge	2
+Squidvader Cap	Special Charge Up	Skalop	1
+Squinja Mask	Quick Respawn	amiibo	2
+Straw Boater	Quick Super Jump	Skalop	1
+Striped Beanie	Opening Gambit	Splash Mob	1
+Studio Headphones	Ink Saver (Main)	Forge	2
+Sun Visor	Sub Power Up	Tentatek	2
+Takoroka Mesh	Bomb Defense Up	Takoroka	1
+Takoroka Visor	Quick Super Jump	Takoroka	3
+Tennis Headband	Comeback	Tentatek	1
+Tinted Shades	Last-Ditch Effort	Zekko	1
+Urchins Cap	Sub Power Up	Skalop	1
+Visor Skate Helmet	Last-Ditch Effort	Skalop	3
+White Headband	Ink Recovery Up	SquidForce	1
